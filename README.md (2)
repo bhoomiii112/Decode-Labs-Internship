@@ -1,0 +1,69 @@
+# Project 2: Exploratory Data Analysis (EDA) 📊
+### Internship Project | Smartphone Usage & Addiction Analysis
+## 📌 Project Overview
+Following the data cleaning phase, this project focused on **Exploratory Data Analysis (EDA)**. The objective was to go beyond the raw numbers to uncover hidden patterns, detect anomalies, and understand the relationships between smartphone usage habits, health, and academic performance.
+## 🛠️ Tools & Libraries Used
+* **Language:** Python
+* **Data Manipulation:** Pandas, NumPy
+* **Data Visualization:** Matplotlib, Seaborn
+* **Environment:** Google Colab / Jupyter Notebook
+
+## 🔍 Analysis Performed
+
+### 1. Descriptive Statistics
+* Calculated **Mean, Median, and Mode** for usage metrics to understand the "average" user profile.
+* Used `.describe()` to identify the spread and variance in screen time and sleep hours.
+
+### 2. Distribution Analysis
+* **Histograms:** Used to visualize the distribution of daily screen time and age groups.
+* **Countplots:** Analyzed the frequency of different Stress Levels and Addiction categories.
+
+### 3. Outlier Detection
+* **Boxplots:** Identified extreme values in variables like `Notifications_per_day` and `App_opens_per_day` to understand "power users" vs. "casual users."
+
+### 4. Relationship & Trend Identification
+* **Scatterplots:** Explored the correlation between screen time and sleep hours.
+* **Heatmaps:** Generated a correlation matrix to see how strongly variables like `Social_media_hours` and `Stress_level` are linked.
+* **Bar Charts:** Compared average usage across different Genders and Academic Impact statuses.
+
+## 📈 Key Insights & Observations
+* **Usage Saturation:** A significant portion of the user base spends 6–9 hours daily on their devices.
+* **Sleep Correlation:** There is a noticeable negative correlation between high gaming hours and total sleep duration.
+* **Stress Factor:** Users in the "High Stress" category tended to have higher notification counts and more frequent app opens.
+* **Gender Trends:** Observed how usage patterns varied across different demographics, providing a basis for targeted digital well-being strategies.
+
+## 📌 Key Learnings
+* Developed a "data-first" mindset to identify trends before jumping into modeling.
+* Mastered advanced visualization techniques using **Seaborn** to make complex data easy to understand.
+* Learned how to statistically and visually prove or disprove hypotheses about user behavior.
+
+
+* Calculated **Mean, Median, and Mode** for usage metrics to understand the "average" user profile.
+* Used `.describe()` to identify the spread and variance in screen time and sleep hours.
+
+### 2. Distribution Analysis
+* **Histograms:** Used to visualize the distribution of daily screen time and age groups.
+* **Countplots:** Analyzed the frequency of different Stress Levels and Addiction categories.
+
+### 3. Outlier Detection
+* **Boxplots:** Identified extreme values in variables like `Notifications_per_day` and `App_opens_per_day` to understand "power users" vs. "casual users."
+
+### 4. Relationship & Trend Identification
+* **Scatterplots:** Explored the correlation between screen time and sleep hours.
+* **Heatmaps:** Generated a correlation matrix to see how strongly variables like `Social_media_hours` and `Stress_level` are linked.
+* **Bar Charts:** Compared average usage across different Genders and Academic Impact statuses.
+
+## 📈 Key Insights & Observations
+* **Usage Saturation:** A significant portion of the user base spends 6–9 hours daily on their devices.
+* **Sleep Correlation:** There is a noticeable negative correlation between high gaming hours and total sleep duration.
+* **Stress Factor:** Users in the "High Stress" category tended to have higher notification counts and more frequent app opens.
+* **Gender Trends:** Observed how usage patterns varied across different demographics, providing a basis for targeted digital well-being strategies.
+
+## 📌 Key Learnings
+* Developed a "data-first" mindset to identify trends before jumping into modeling.
+* Mastered advanced visualization techniques using **Seaborn** to make complex data easy to understand.
+* Learned how to statistically and visually prove or disprove hypotheses about user behavior.
+
+## 🔗 Connect with me
+www.linkedin.com/in/bhoomiii112
+

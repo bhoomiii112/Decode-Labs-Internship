@@ -1,0 +1,37 @@
+# Project 3: SQL Data Analysis 📋
+### Internship Project | Smartphone Usage & Addiction Analysis
+
+## 📌 Project Objective
+The goal of this project was to perform deep-dive data analysis using **SQL** to identify patterns in smartphone usage and addiction levels. I analyzed how digital habits impact key life factors such as academic performance, sleep quality, and mental health (stress levels) across a dataset of 7,500 users.
+
+## 🛠️ Tools & Technologies
+* **Database:** PostgreSQL
+* **Interface:** pgAdmin 4 / DBeaver
+* **Language:** SQL
+* **Data Source:** `Smartphone_Usage_And_Addiction_Analysis_7500_Rows.csv`
+
+## 🗂️ Database Schema
+I designed and implemented a structured table named `smartphone_usage` with the following attributes:
+* **Demographics:** Age, Gender
+* **Usage Metrics:** Daily screen time, Social media hours, Gaming hours, App opens, Notifications.
+* **Impact Metrics:** Sleep hours, Stress level, Academic impact, Addiction label.
+
+## 🚀 SQL Implementation
+To satisfy the internship requirements, I executed complex queries involving:
+* **Data Extraction & Filtering (`SELECT`, `WHERE`):** Isolated high-usage individuals and students reporting academic interference.
+* **Sorting (`ORDER BY`):** Ranked users to identify "power users" based on engagement metrics.
+* **Aggregations (`COUNT`, `SUM`, `AVG`):** Calculated global totals and averages to identify broad trends.
+* **Grouping (`GROUP BY`):** Segmented data by Gender and Stress Level to uncover specific correlations.
+
+📌 Key Learnings
+Developed proficiency in **PostgreSQL** and database management.
+Learned how to translate business/research questions into efficient SQL queries.
+Gained experience in data Type casting and handling large-scale imports via CSV.
+
+## 🔗 Connect with me
+www.linkedin.com/in/bhoomiii112
+
+
+
+
+Congratulations on completing all three internship projects! Your GitHub portfolio is now looking very strong. Do you need help with a **"Profile README"** (the special page that introduces you at the top of your GitHub)?
